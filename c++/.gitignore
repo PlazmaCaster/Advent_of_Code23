@@ -1,0 +1,9 @@
+# executeables
+*.out
+*.exe
+main
+partA
+partB
+
+# objects
+*.o
