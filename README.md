@@ -1,4 +1,4 @@
-# advent_of_code23
+# Advent_of_Code23
 My humble attempt to Advent of Code 2023.
 
 # Goals:
