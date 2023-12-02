@@ -8,4 +8,4 @@ My humble attempt to Advent of Code 2023.
 # **Days**:
 |Day #|Part A|Part B|
 |-----|------|------|
-|Day 1|- [x] C++| - [x] C++|
+|Day 1|- [x] C++ <br> - [x] Rust | - [x] C++|
