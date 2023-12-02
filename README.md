@@ -5,8 +5,9 @@ My humble attempt to Advent of Code 2023.
 * Attempt to use this as exercises to learn the Rust language
 * Test knowledge of concepts learned from CS 302 and my mastery of C++
 
+
 # **Days**:
 |Day #|Part A|Part B|
 |-----|------|------|
-|Day 1|[X] C++ <br> [ ] Rust |[X] C++ <br> [ ] Rust|
-|Day 2|[X] C++ <br> [ ] Rust |[X] C++ <br> [ ] Rust|
+|Day 1|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul>|
+|Day 2|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul>|
