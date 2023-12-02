@@ -8,5 +8,5 @@ My humble attempt to Advent of Code 2023.
 # **Days**:
 |Day #|Part A|Part B|
 |-----|------|------|
-|Day 1|[X] C++ <br> [ ] Rust | [X] C++ <br> [ ] Rust|
-|Day 2|[X] C++ <br> [ ] Rust | [X] C++ <br> [ ] Rust|
+|Day 1|[X] C++ <br> [ ] Rust |[X] C++ <br> [ ] Rust|
+|Day 2|[X] C++ <br> [ ] Rust |[X] C++ <br> [ ] Rust|
