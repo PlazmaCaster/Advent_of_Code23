@@ -9,5 +9,5 @@ My humble attempt to Advent of Code 2023.
 # **Days**:
 |Day #|Part A|Part B|
 |-----|------|------|
-|Day 1|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
-|Day 2|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+|Day 1|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] C++</li><li>[ ] Rust</li></ul>|
+|Day 2|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] C++</li><li>[ ] Rust</li></ul>|
