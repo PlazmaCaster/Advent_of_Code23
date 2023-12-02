@@ -6,4 +6,4 @@ My humble attempt to Advent of Code 2023.
 * Test knowledge of concepts learned from CS 302 and my mastery of C++
 
 # **Days**:
--[x]Test
+-[x] Test
