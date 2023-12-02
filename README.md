@@ -6,4 +6,6 @@ My humble attempt to Advent of Code 2023.
 * Test knowledge of concepts learned from CS 302 and my mastery of C++
 
 # **Days**:
-- [x] Test
+|Day #|Part A|Part B|
+|-----|------|------|
+|Day 1|- [x] C++| - [x] C++|
