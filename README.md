@@ -11,7 +11,7 @@ My humble attempt to Advent of Code 2023.
 |Day 1|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] C++</li><li>[ ] Rust</li></ul>|
 |Day 2|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[x] C++</li><li>[ ] Rust</li></ul>|
 |Day 3|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[X] C++</li><li>[ ] Rust</li></ul>|
-|~~Day 4~~|<ul><li>- [ ] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[ ] C++</li><li>[ ] Rust</li></ul>|
+|Day 4|<ul><li>- [X] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[ ] C++</li><li>[ ] Rust</li></ul>|
 |~~Day 5~~|<ul><li>- [ ] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[ ] C++</li><li>[ ] Rust</li></ul>|
 |~~Day 6~~|<ul><li>- [ ] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[ ] C++</li><li>[ ] Rust</li></ul>|
 |~~Day 7~~|<ul><li>- [ ] C++</li><li>- [ ] Rust</li></ul> |<ul><li>[ ] C++</li><li>[ ] Rust</li></ul>|
